@@ -1,7 +1,4 @@
-### Olá! Eu sou o Matheus Ferreira ✌️
-
-[![Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-santos-/)
-
+### Olá, eu sou o Matheus.
 
 ![MathFerreira01 GitHub stats](https://github-readme-stats.vercel.app/api?username=MathFerreira01&show_icons=true&theme=radical)
 
@@ -19,4 +16,9 @@
     <img aligne="center" alt="Bootstrap" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     </div>
 <br></br>
+
+Caso queira me acompanhar em alguma rede social
+
+[![Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ferreira-santos-/)
+
 Apaixonado por tecnologia!!
