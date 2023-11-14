@@ -54,14 +54,14 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/matheus-ferreira-santos-" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<img align="right" height="140" src="https://media4.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif?cid=ecf05e47sfsup7b05qwxnedzbvacqbb75sancbwu5piv3k9i&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
-<img align="right" height="140" src="https://media4.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif?cid=ecf05e47sfsup7b05qwxnedzbvacqbb75sancbwu5piv3k9i&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="left">
+  <a href="www.linkedin.com/in/matheus-ferreira-santos-" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
